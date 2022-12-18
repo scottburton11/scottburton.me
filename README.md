@@ -1,0 +1,2 @@
+# scottburton.me
+Public website
